@@ -3,8 +3,8 @@ import Layout from '../components/layout'
 
 const NotFoundPage = () => (
   <Layout>
-    <div class='notfound-wrapper'>
-      <div class='notfound-content'>
+    <div className='notfound-wrapper'>
+      <div className='notfound-content'>
         <p>
           Looks like you got lost.
           <br />
